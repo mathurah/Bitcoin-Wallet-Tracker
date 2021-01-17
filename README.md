@@ -1,5 +1,3 @@
-# UNICEF Office of Innovation Blockchain Team Intern Assessment
-
 # Mathurah's section: Solution Explanation
 
 Adding in some of my own documentation since documentation is a very important part of development to explain my thought process for under developers to understand the decisions I made.
