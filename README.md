@@ -77,7 +77,3 @@ It is not required to complete every part of this assessment. Go as far as you c
 4. Wire up your endpoints to the application.
 5. Make the unit tests pass when you run `npm run test`
 6. Add additional unit tests for the edge cases in your new code.
-
-## Submission
-
-Once you complete the assignment, please make your repository private and invite `mehranhydary` and `tenthirtyone` to the repository so that your solution can be reviewed by UNICEF.
