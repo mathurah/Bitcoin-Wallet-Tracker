@@ -1,11 +1,3 @@
-# Mathurah's section: Solution Explanation
-
-Adding in some of my own documentation since documentation is a very important part of development to explain my thought process for under developers to understand the decisions I made.
-
-First of all, thank you for this challenge! I got involved in the crypto space a few years ago developing a start-up to allow students to trade with virtual dollars. This was a great refresher. My background: I traditionally have more front-end development experience, but this motivated me to learn and apply the full-stack concepts I've been learning.
-
-I also used the new React hooks! 
-
 ## Front-end
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/702b6093-af8a-4c6e-9f3d-99980e13f99f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201026T030625Z&X-Amz-Expires=86400&X-Amz-Signature=6fc52f91e9d3ed2176c2311881fc1e1046e49f3805975bee8e253c738503d849&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 - I used the Material UI Forms to create the front-end and also focused on user experience. I ensured that users can **edit**, **cancel edits**, **add new wallets**, and **delete**. The page reloads automatically when the buttons are clicked to show the changes. 
